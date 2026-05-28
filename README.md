@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhrub Mahajan</h1>
 
 <p align="center">
-I’m a Bachelor of Engineering student in Information Science and Engineering (ISE) at PES College of Engineering, Mandya. Passionate about full-stack development and backend engineering, I specialize in building scalable and responsive web applications using the MERN stack, Django, PostgreSQL, and SQL. I enjoy solving real-world problems through clean and efficient code while continuously exploring modern technologies and backend architectures. Alongside development, I actively practice Data Structures and Algorithms and have solved problems across platforms like LeetCode, GeeksforGeeks, CodeChef, Codeforces, and HackerRank. I’m always eager to work on challenging projects that help me grow as a developer and problem solver.
+I’m a Bachelor of Engineering student in Information Science and Engineering (ISE) at PES College of Engineering, Mandya. Passionate about full-stack development and backend engineering, I specialize in building scalable and responsive web applications using the MERN stack, Django, and PostgreSQL. I enjoy solving real-world problems through clean and efficient code while continuously exploring modern technologies and backend architectures. Alongside development, I actively practice Data Structures and Algorithms and have solved 200+ DSA problems across platforms like LeetCode, GeeksforGeeks, CodeChef, Codeforces, and HackerRank. I’m always eager to work on challenging projects that help me grow as a developer and problem solver.
 </p>
 
 <p align="left"> 
