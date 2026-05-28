@@ -18,7 +18,7 @@ Opportunities in full-stack development, backend engineering, software developme
 ## 📫 Connect with me
 <p align="left">
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/dhrub-mahajan-232664292/)" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
