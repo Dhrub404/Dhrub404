@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Dhrub Mahajan</h1>
 
 <p align="center">
@@ -65,4 +65,3 @@ Opportunities in full-stack development, backend engineering, software developme
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhrub404&show_icons=true&locale=en" alt="github stats" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrub404&" alt="streak stats" /></p> -->
-```
